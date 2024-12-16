@@ -1,17 +1,17 @@
 ## O que são imagens docker?
 
-![](/img/image03.png)
+![](../img/image03.png)
 
 ---
 
 ### Arquitetura de camadas de imagens
 
-![](/img/image04.png)
+![](../img/image04.png)
 
 ---
 ### Dockerfile
 
-![](/img/image05.png)
+![](../img/image05.png)
 
 ---
 
@@ -29,14 +29,14 @@ docker build . -t $(image_name)
 
 ## O que é?
 
-![](/img/image06.png)
+![](../img/image06.png)
 
 Armazena e distribui imagens docker.
 
 ---
 ## Imagens públicas
 
-![](/img/image07.png)
+![](../img/image07.png)
 
 [DockerHub](https://hub.docker.com/)
 
