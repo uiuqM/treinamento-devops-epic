@@ -1,7 +1,7 @@
 
 ## O que é DevOps?
 
-![](/img/Pasted image 20241209185603.png)
+![](../img/Pasted image 20241209185603.png)
 
 *De modo geral podemos compreender **DevOps** como uma **cultura** que tem como premissa unir os times de Operações e Desenvolvimento.*
 
@@ -20,7 +20,7 @@
 ## Containers x VM's:
 
 ### Considere o seguinte caso:
-![](/img/image.png)
+![](../img/image.png)
 
 Dependency Hell
 
@@ -28,14 +28,14 @@ Dependency Hell
 ## Containers x VM's:
 ### Estrutura de uma VM
 
-![](/img/image01.png)
+![](../img/image01.png)
 
 
 ---
 ## Containers x VM's:
 ### Estrutura de um container
 
-![](/img/image02.png)
+![](../img/image02.png)
 
 ---
 ## Containers x VM's:
@@ -68,7 +68,7 @@ Dependency Hell
  docker run
  ```
 
- ![](/img/Pasted image 20241211072529.png)
+ ![](../img/Pasted image 20241211072529.png)
 
 ---
 ### Primeiros comandos
@@ -79,7 +79,7 @@ Comandos básicos: Listar containers
  docker ps
  ```
 
-![](/img/Pasted image 20241211073030.png)
+![](../img/Pasted image 20241211073030.png)
 
 ---
 ### Primeiros comandos
@@ -124,7 +124,7 @@ docker run -it $(image_name)
 ---
 ### Docker run
 #### Port Mapping
-![](/img/image08.png)
+![](../img/image08.png)
 
 ```
 docker run -p 80:8000 $(image_name)
@@ -135,7 +135,7 @@ docker run -p 80:8000 $(image_name)
 #### Volumes
 
 
-![](/img/image09.png)
+![](../img/image09.png)
 
 ```
 docker run -v /opt/dockerhost-path:/var/lib/mysql $(image_name)

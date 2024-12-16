@@ -1,4 +1,4 @@
-![](/img/epic_logo.png)
+![](../img/epic_logo.png)
 
 ## Professor: Edeilson Milhomem da Silva
 ## Instrutor: Wilque Muriel do N. Coelho

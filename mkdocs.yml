@@ -8,4 +8,4 @@ nav:
 
 theme: 
   name: material
-  logo: img/epic_logo.svg
+  logo: ../img/epic_logo.svg
