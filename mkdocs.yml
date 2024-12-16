@@ -1,4 +1,5 @@
 site_name: treinamento-devops-epic
+site_url: https://uiuqm.github.io/treinamento-devops-epic
 
 nav:
   - Sobre: index.md
@@ -7,3 +8,4 @@ nav:
 
 theme: 
   name: material
+  logo: img/epic_logo.svg
