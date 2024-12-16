@@ -1,0 +1,9 @@
+site_name: treinamento-devops-epic
+
+nav:
+  - Sobre: index.md
+  - Apresentação e introdução: Apresentação - Introdução.md
+  - Docker Images e Registry: Docker images e registry.md
+
+theme: 
+  name: material

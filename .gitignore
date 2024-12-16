@@ -1,0 +1,5 @@
+/docs/treinamento-devops-epic
+/flask-app
+Dockerfile
+*.py
+docker*
