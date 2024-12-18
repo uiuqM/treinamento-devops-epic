@@ -1,13 +1,13 @@
 
 ## O que é?
 
-Podemos defiinir o [docker compose](https://docs.docker.com/compose/) como um **orquestrador** de containers.
+Podemos definir o [docker compose](https://docs.docker.com/compose/) como um **orquestrador** de containers.
 
 
 ---
 ## O que é orquestração de containers?
 
-O processo de ***automatização*** de deployments, gerenciamento, escalonamento e redes de containers durante seu ciclo de vida?
+O processo de ***automatização*** de deployments, gerenciamento, escalonamento e redes de containers durante seu ciclo de vida.
 
 ---
 ## O que o orquestrador resolve?
@@ -30,7 +30,6 @@ docker run $(image_name1)
 - Escalonamento;
 - Balanceamento roteamento de tráfego;
 - Monitoramento e garantia de health;
-- 
 
 ---
 

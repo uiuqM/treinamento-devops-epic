@@ -7,6 +7,7 @@ nav:
   - Docker Images e Registry: Docker images e registry.md
   - Docker Networking: Docker network.md
   - Docker Compose: Docker Compose.md
+  - GitHub Actions: Github Actions.md
 
 theme: 
   name: material
